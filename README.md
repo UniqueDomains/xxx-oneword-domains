@@ -79,7 +79,7 @@ print(df.head())
 | container.xxx    | available | $154.98   | —             | 74             | 65     | 9      | namecheap               |
 | bot.xxx          | resell    | —         | —             | 80             | 53     | 3      | Blue Razor Domains, LLC |
 | enjoy.xxx        | premium   | $465      | —             | 88             | 66     | 5      | name.com                |
-| even.xxx         | available | $154.98   | —             | 88             | 64     | 4      | namecheap               |
+| even.xxx         | available | $154.98   | —             | 88             | 63     | 4      | namecheap               |
 | art.xxx          | resell    | —         | —             | 90             | 52     | 3      | Name.com, Inc.          |
 | surface.xxx      | premium   | $310      | —             | 68             | 66     | 7      | name.com                |
 | sense.xxx        | available | $154.98   | —             | 84             | 63     | 5      | namecheap               |
