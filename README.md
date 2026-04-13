@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .xxx one-word domains from Unique 
 
 **Public extract:** 3,883 rows · **Live catalog:** 3,883 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/xxx`  
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | shop.xxx         | resell    | —         | —             | 73             | 54     | 4      | Name.com, Inc.          |
 | flow.xxx         | premium   | $620      | —             | 78             | 67     | 4      | name.com                |
 | container.xxx    | available | $154.98   | —             | 74             | 65     | 9      | namecheap               |
-| best.xxx         | resell    | —         | —             | 82             | 53     | 4      | Name.com, Inc.          |
+| bot.xxx          | resell    | —         | —             | 80             | 53     | 3      | Blue Razor Domains, LLC |
 | enjoy.xxx        | premium   | $465      | —             | 88             | 66     | 5      | name.com                |
 | even.xxx         | available | $154.98   | —             | 88             | 64     | 4      | namecheap               |
-| bot.xxx          | resell    | —         | —             | 80             | 53     | 3      | Blue Razor Domains, LLC |
+| art.xxx          | resell    | —         | —             | 90             | 52     | 3      | Name.com, Inc.          |
 | surface.xxx      | premium   | $310      | —             | 68             | 66     | 7      | name.com                |
 | sense.xxx        | available | $154.98   | —             | 84             | 63     | 5      | namecheap               |
-| art.xxx          | resell    | —         | —             | 90             | 52     | 3      | Name.com, Inc.          |
+| best.xxx         | resell    | —         | —             | 82             | 52     | 4      | Name.com, Inc.          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
