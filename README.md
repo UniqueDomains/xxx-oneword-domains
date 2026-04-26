@@ -1,22 +1,22 @@
-# Available .XXX One-Word Domains (3,883)
+# Available .XXX One-Word Domains (8,417)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-3%2C883%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-3%2C883%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C417%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .xxx one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .xxx one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,417 domains** on the canonical page below.
 
-**Public extract:** 3,883 rows · **Live catalog:** 3,883 domains
+**Public extract:** 1,000 rows · **Live catalog:** 8,417 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/xxx`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .XXX one-word domain c
 
 ### Files
 
-- `xxx.csv` — public CSV extract (3,883 rows)
-- `xxx.json` — public JSON extract (3,883 rows)
+- `xxx.csv` — public CSV extract (1,000 rows)
+- `xxx.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| entrepreneur.xxx | available | $154.98   | —             | 82             | 80     | 12     | namecheap               |
-| prompt.xxx       | resell    | —         | —             | 82             | 69     | 6      | Porkbun                 |
-| mesh.xxx         | premium   | $620      | —             | 74             | 81     | 4      | name.com                |
-| lens.xxx         | available | $154.98   | —             | 62             | 69     | 4      | namecheap               |
-| web.xxx          | resell    | —         | —             | 72             | 61     | 3      | Name.com, Inc.          |
-| outlook.xxx      | premium   | $310      | —             | 77             | 72     | 7      | name.com                |
-| reset.xxx        | available | $154.98   | —             | 70             | 68     | 5      | namecheap               |
-| the.xxx          | resell    | —         | —             | 88             | 58     | 3      | Name.com, Inc.          |
-| switch.xxx       | premium   | $310      | —             | 70             | 68     | 6      | name.com                |
-| canon.xxx        | available | $179.99   | —             | 70             | 67     | 5      | name.com                |
-| shop.xxx         | resell    | —         | —             | 73             | 54     | 4      | Name.com, Inc.          |
-| flow.xxx         | premium   | $620      | —             | 78             | 67     | 4      | name.com                |
-| container.xxx    | available | $154.98   | —             | 74             | 65     | 9      | namecheap               |
-| bot.xxx          | resell    | —         | —             | 80             | 53     | 3      | Blue Razor Domains, LLC |
-| enjoy.xxx        | premium   | $465      | —             | 88             | 66     | 5      | name.com                |
-| even.xxx         | available | $154.98   | —             | 88             | 63     | 4      | namecheap               |
-| art.xxx          | resell    | —         | —             | 90             | 52     | 3      | Name.com, Inc.          |
-| surface.xxx      | premium   | $310      | —             | 68             | 66     | 7      | name.com                |
-| sense.xxx        | available | $154.98   | —             | 84             | 63     | 5      | namecheap               |
-| best.xxx         | resell    | —         | —             | 82             | 52     | 4      | Name.com, Inc.          |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Ryan.xxx        | available | $154.98   | —             | 60             | 44     | 4      | namecheap        |
+| nails.xxx       | resell    | —         | —             | 62             | 18     | 5      | GoDaddy.com, LLC |
+| stores.xxx      | premium   | $310      | —             | 62             | 20     | 6      | name.com         |
+| Phil.xxx        | available | $154.98   | —             | 78             | 41     | 4      | namecheap        |
+| networks.xxx    | premium   | $232.50   | —             | 60             | 20     | 8      | name.com         |
+| RGB.xxx         | available | $154.98   | —             | 76             | 39     | 3      | namecheap        |
+| standup.xxx     | premium   | $310      | —             | 78             | 19     | 8      | name.com         |
+| homes.xxx       | available | $154.98   | —             | 86             | 34     | 5      | namecheap        |
+| vacations.xxx   | premium   | $173.60   | $173.60       | 56             | 19     | 9      | namecheap        |
+| tickets.xxx     | available | $154.98   | —             | 64             | 34     | 7      | namecheap        |
+| gearup.xxx      | premium   | $310      | —             | 80             | 16     | 7      | name.com         |
+| imagination.xxx | available | $154.98   | —             | 84             | 33     | 11     | namecheap        |
+| pals.xxx        | premium   | $620      | —             | 77             | 16     | 4      | name.com         |
+| Liam.xxx        | available | $154.98   | —             | 81             | 32     | 4      | namecheap        |
+| moveup.xxx      | premium   | $310      | —             | 79             | 14     | 7      | name.com         |
+| inspiration.xxx | available | $154.98   | —             | 88             | 30     | 11     | namecheap        |
+| Guys.xxx        | premium   | $347.20   | $347.20       | 68             | 13     | 4      | namecheap        |
+| commonsense.xxx | available | $154.98   | —             | 86             | 30     | 12     | namecheap        |
+| senses.xxx      | premium   | $310      | —             | 63             | 13     | 6      | name.com         |
+| heroes.xxx      | available | $154.98   | —             | 68             | 29     | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 3,883-row public sample | 3,883 live domains                               |
+| 1,000-row public sample | 8,417 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
