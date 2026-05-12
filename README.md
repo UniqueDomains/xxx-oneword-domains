@@ -73,7 +73,7 @@ print(df.head())
 | Ryan.xxx        | available | $154.98   | —             | 60             | 44     | 4      | namecheap               |
 | nails.xxx       | resell    | —         | —             | 62             | 18     | 5      | GoDaddy.com, LLC        |
 | stores.xxx      | premium   | $310      | —             | 62             | 20     | 6      | name.com                |
-| Phil.xxx        | available | $154.98   | —             | 78             | 41     | 4      | namecheap               |
+| Phil.xxx        | available | $154.98   | —             | 78             | 40     | 4      | namecheap               |
 | concerts.xxx    | resell    | —         | —             | 68             | 12     | 8      | Blue Razor Domains, LLC |
 | networks.xxx    | premium   | $232.50   | —             | 60             | 20     | 8      | name.com                |
 | RGB.xxx         | available | $154.98   | —             | 76             | 39     | 3      | namecheap               |
