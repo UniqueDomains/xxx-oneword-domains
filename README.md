@@ -71,19 +71,19 @@ print(df.head())
 | getup.xxx       | available | $154.98   | —             | 82             | 14     | 6      | namecheap               |
 | edamame.xxx     | available | $154.98   | —             | 80             | 9      | 7      | namecheap               |
 | Ryan.xxx        | available | $154.98   | —             | 60             | 44     | 4      | namecheap               |
-| nails.xxx       | resell    | —         | —             | 62             | 18     | 5      | GoDaddy.com, LLC        |
+| yesno.xxx       | resell    | $154.98   | —             | 48             | 15     | 6      | GoDaddy.com, LLC        |
 | stores.xxx      | premium   | $310      | —             | 62             | 20     | 6      | name.com                |
 | Phil.xxx        | available | $154.98   | —             | 78             | 40     | 4      | namecheap               |
-| concerts.xxx    | resell    | —         | —             | 68             | 12     | 8      | Blue Razor Domains, LLC |
+| nails.xxx       | resell    | —         | —             | 62             | 18     | 5      | GoDaddy.com, LLC        |
 | networks.xxx    | premium   | $232.50   | —             | 60             | 20     | 8      | name.com                |
-| RGB.xxx         | available | $154.98   | —             | 76             | 39     | 3      | namecheap               |
+| concerts.xxx    | resell    | —         | —             | 68             | 12     | 8      | Blue Razor Domains, LLC |
 | standup.xxx     | premium   | $310      | —             | 78             | 19     | 8      | name.com                |
-| vacations.xxx   | premium   | $173.60   | $173.60       | 56             | 19     | 9      | namecheap               |
 | tickets.xxx     | available | $154.98   | —             | 64             | 34     | 7      | namecheap               |
-| gearup.xxx      | premium   | $310      | —             | 80             | 16     | 7      | name.com                |
+| vacations.xxx   | premium   | $173.60   | $173.60       | 56             | 19     | 9      | namecheap               |
 | imagination.xxx | available | $154.98   | —             | 84             | 33     | 11     | namecheap               |
+| gearup.xxx      | premium   | $310      | —             | 80             | 16     | 7      | name.com                |
 | pals.xxx        | premium   | $620      | —             | 77             | 16     | 4      | name.com                |
-| moveup.xxx      | premium   | $310      | —             | 79             | 14     | 7      | name.com                |
+| inspiration.xxx | available | $154.98   | —             | 88             | 30     | 11     | namecheap               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
