@@ -1,10 +1,10 @@
-# Available .XXX One-Word Domains (8,788)
+# Available .XXX One-Word Domains (8,793)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C788%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C793%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .xxx one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,788 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,793 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,788 domains · **Median ask:** $167.11 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 8,793 domains · **Median ask:** $165.52 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/xxx`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/xxx`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .XXX one-word domain c
 
 ### Files
 
-- `xxx.csv` — public CSV extract (1,000 rows)
-- `xxx.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `xxx.csv`, public CSV extract (1,000 rows)
+- `xxx.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| Liam.xxx        | available | $154.98   | —             | 81             | 32     | 4      | namecheap               |
-| Acup.xxx        | available | $154.98   | —             | 80             | 5      | 5      | namecheap               |
-| homes.xxx       | available | $154.98   | —             | 86             | 34     | 5      | namecheap               |
-| forces.xxx      | available | $154.98   | —             | 82             | 12     | 6      | namecheap               |
-| edamame.xxx     | available | $154.98   | —             | 80             | 9      | 7      | namecheap               |
-| Ryan.xxx        | available | $154.98   | —             | 60             | 44     | 4      | namecheap               |
-| yesno.xxx       | resell    | $154.98   | —             | 48             | 15     | 6      | GoDaddy.com, LLC        |
-| stores.xxx      | premium   | $310      | —             | 62             | 20     | 6      | name.com                |
-| Phil.xxx        | available | $154.98   | —             | 78             | 40     | 4      | namecheap               |
-| nails.xxx       | resell    | —         | —             | 62             | 18     | 5      | GoDaddy.com, LLC        |
-| networks.xxx    | premium   | $232.50   | —             | 60             | 20     | 8      | name.com                |
-| concerts.xxx    | resell    | —         | —             | 68             | 12     | 8      | Blue Razor Domains, LLC |
-| standup.xxx     | premium   | $310      | —             | 78             | 19     | 8      | name.com                |
-| tickets.xxx     | available | $154.98   | —             | 64             | 34     | 7      | namecheap               |
-| vacations.xxx   | premium   | $173.60   | $173.60       | 56             | 19     | 9      | namecheap               |
-| gearup.xxx      | premium   | $310      | —             | 80             | 16     | 7      | name.com                |
-| inspiration.xxx | available | $154.98   | —             | 88             | 30     | 11     | namecheap               |
-| pals.xxx        | premium   | $620      | —             | 77             | 16     | 4      | name.com                |
-| commonsense.xxx | available | $154.98   | —             | 86             | 30     | 12     | namecheap               |
-| moveup.xxx      | premium   | $310      | —             | 79             | 14     | 7      | name.com                |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| apt.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| fix.xxx  | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                          |
+| bit.xxx  | premium   | $775      | —             | high           | medium | 3      | name.com                                                  |
+| bed.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| man.xxx  | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.                                            |
+| cafe.xxx | premium   | $620      | —             | high           | low    | 4      | name.com                                                  |
+| cup.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| run.xxx  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| earn.xxx | premium   | $620      | —             | medium         | low    | 4      | name.com                                                  |
+| dye.xxx  | available | $154.98   | —             | medium         | low    | 3      | namecheap                                                 |
+| top.xxx  | resell    | —         | —             | medium         | medium | 3      | Name.com, Inc.                                            |
+| fame.xxx | premium   | $620      | —             | high           | low    | 4      | name.com                                                  |
+| err.xxx  | available | $154.98   | —             | medium         | low    | 3      | namecheap                                                 |
+| toy.xxx  | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| feel.xxx | premium   | $620      | —             | high           | low    | 4      | name.com                                                  |
+| gas.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| best.xxx | resell    | —         | —             | high           | medium | 4      | Name.com, Inc.                                            |
+| flow.xxx | premium   | $620      | —             | high           | medium | 4      | name.com                                                  |
+| gym.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| cool.xxx | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 8,788 live domains                         |
+| 1,000-row public sample | 8,793 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all .xxx names, so the main decision is not extension choice but term selection. The set includes personal names, generic words, niche terms, and short brand-style options such as Liam.xxx, Acup.xxx, WiFi.xxx, homes.xxx, LGBTQ.xxx, and emoji.xxx. With a median ask of 167.13, many will sit in an accessible price range, but the better picks still depend on clarity and fit. When comparing these domains, favor words that are easy to read, easy to remember, and commercially usable with the .xxx extension. Be more careful with terms that may carry trademark exposure, ambiguous meaning, or weak resale depth.
+This selection covers one-word .XXX domain names, including compact everyday words and short phrases like havemercy.xxx, windowshop.xxx, and sweets.xxx. Across 8,793 domains, the median asking price sits at $165.52, giving a clear price benchmark for this niche TLD. .XXX carries an adult-industry association, which affects renewal costs and buyer perception compared to mainstream extensions. When comparing these domains, look at word length, spelling simplicity, and whether the term reads as brandable or purely descriptive. Investors can use the median ask as a quick liquidity gauge across this inventory, while founders can shortlist ownable-now names that fit a specific niche or campaign.
 
-- The extension is fixed, so quality depends on the word
-- Median ask is 167.13 across this .xxx selection
-- Generic terms tend to be clearer than obscure brandables
-- Check trademark risk before valuing keyword strength
+- 8,793 one-word .XXX domains, median ask $165.52
+- Includes short, brandable terms like sweets.xxx and playin.xxx
+- .XXX carries niche renewal and demand dynamics vs mainstream TLDs
+- Updated daily for current pricing across this list
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
