@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 39ccf3e8-497f-470b-921c-b203b9f1f3b6,informed.xxx,available,154.98,,high,low,8,namecheap,,
 1b2e7ed1-865a-46f6-9faf-7b81a9595942,astound.xxx,available,154.98,,high,low,7,namecheap,,
-fe4d8bea-23b2-4702-9fb0-7014d16b72ba,vast.xxx,available,154.98,,high,low,4,namecheap,,
+fe4d8bea-23b2-4702-9fb0-7014d16b72ba,vast.xxx,available,69.98,154.98,medium,low,4,namecheap,,
 e57c762f-ff6c-48f4-9d29-0e8fada15473,sitting.xxx,available,154.98,,high,low,7,namecheap,,
 d0da79d3-0a6a-4f9f-95f4-c29fc63f9d9e,treatment.xxx,available,154.98,,high,low,9,namecheap,,
 32a2daad-bdb5-4c4f-9713-8798d70c84c5,environmental.xxx,available,154.98,,medium,low,13,namecheap,,
@@ -633,7 +633,7 @@ e6cb1f4d-eedd-48fa-b7e4-c3fe0e2ea4a4,stubborn.xxx,available,154.98,,medium,low,8
 566a8b7b-db2d-4aa4-bb4c-8435fd2b108d,sensing.xxx,available,154.98,,medium,low,7,namecheap,,
 38a943f6-4f06-4f90-a058-a6cb94896625,exclamationmark.xxx,available,154.98,,medium,low,16,namecheap,,
 b54f29a7-cd14-476b-bb56-2a247df179b8,lowkeyed.xxx,available,154.98,,medium,low,9,namecheap,,
-7b971a13-5c4a-46e8-adca-7052e6e39fc7,think.xxx,premium,465,,high,medium,5,name.com,,
+7b971a13-5c4a-46e8-adca-7052e6e39fc7,think.xxx,premium,483.6,483.6,medium,medium,5,namecheap,,
 d5748d01-6ade-4a53-b394-126bb7bfe5f7,sensor.xxx,premium,310,,high,low,6,name.com,,
 9dddde41-b1f5-4886-a8cb-6e566cd85354,consider.xxx,available,154.98,,high,low,8,namecheap,,
 4d45e471-3146-48b9-9fad-ffbbe21c4ed0,discount.xxx,resell,,,high,low,8,Key-Systems GmbH,01/12/2011 21:25,01/12/2026 21:25
