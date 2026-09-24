@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .xxx one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,724 domains · **Median ask:** $98.59 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/xxx`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| apt.xxx    | available | $179.99   | $179.99       | low            | low    | 3      | name.com  |
-| damn.xxx   | resell    | $154.98   | —             | medium         | low    | 4      | namecheap |
-| bit.xxx    | premium   | $775      | —             | high           | medium | 3      | name.com  |
-| bed.xxx    | available | $154.98   | —             | high           | low    | 3      | namecheap |
-| dear.xxx   | resell    | $154.98   | —             | medium         | low    | 4      | namecheap |
-| cafe.xxx   | premium   | $644.80   | $644.80       | medium         | low    | 4      | namecheap |
-| cup.xxx    | available | $69.98    | $154.98       | medium         | low    | 3      | namecheap |
-| break.xxx  | resell    | $154.98   | —             | low            | low    | 5      | namecheap |
-| earn.xxx   | premium   | $620      | —             | medium         | low    | 4      | name.com  |
-| dye.xxx    | available | $154.98   | —             | medium         | low    | 3      | namecheap |
-| close.xxx  | resell    | $154.98   | —             | medium         | low    | 5      | namecheap |
-| fame.xxx   | premium   | $620      | —             | high           | low    | 4      | name.com  |
-| err.xxx    | available | $154.98   | —             | medium         | low    | 3      | namecheap |
-| sharp.xxx  | resell    | $154.98   | —             | medium         | low    | 5      | namecheap |
-| feel.xxx   | premium   | $620      | —             | high           | low    | 4      | name.com  |
-| gas.xxx    | available | $69.98    | $154.98       | low            | low    | 3      | namecheap |
-| staff.xxx  | resell    | $154.98   | —             | medium         | low    | 5      | namecheap |
-| flow.xxx   | premium   | $620      | —             | high           | medium | 4      | name.com  |
-| gym.xxx    | available | $154.98   | —             | high           | low    | 3      | namecheap |
-| lovely.xxx | resell    | $154.98   | —             | medium         | low    | 6      | namecheap |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| apt.xxx   | available | $179.99   | $179.99       | low            | low    | 3      | name.com  |
+| damn.xxx  | resell    | $154.98   | —             | medium         | low    | 4      | namecheap |
+| bit.xxx   | premium   | $775      | —             | high           | medium | 3      | name.com  |
+| bed.xxx   | available | $154.98   | —             | high           | low    | 3      | namecheap |
+| dear.xxx  | resell    | $154.98   | —             | medium         | low    | 4      | namecheap |
+| cafe.xxx  | premium   | $644.80   | $644.80       | medium         | low    | 4      | namecheap |
+| cup.xxx   | available | $69.98    | $154.98       | medium         | low    | 3      | namecheap |
+| break.xxx | resell    | $154.98   | —             | low            | low    | 5      | namecheap |
+| earn.xxx  | premium   | $620      | —             | medium         | low    | 4      | name.com  |
+| dye.xxx   | available | $154.98   | —             | medium         | low    | 3      | namecheap |
+| close.xxx | resell    | $154.98   | —             | medium         | low    | 5      | namecheap |
+| fame.xxx  | premium   | $620      | —             | high           | low    | 4      | name.com  |
+| err.xxx   | available | $154.98   | —             | medium         | low    | 3      | namecheap |
+| sharp.xxx | resell    | $154.98   | —             | medium         | low    | 5      | namecheap |
+| feel.xxx  | premium   | $620      | —             | high           | low    | 4      | name.com  |
+| gas.xxx   | available | $69.98    | $154.98       | low            | low    | 3      | namecheap |
+| staff.xxx | resell    | $154.98   | —             | medium         | low    | 5      | namecheap |
+| flow.xxx  | premium   | $620      | —             | high           | medium | 4      | name.com  |
+| gym.xxx   | available | $154.98   | —             | high           | low    | 3      | namecheap |
+| treat.xxx | resell    | $154.98   | —             | low            | low    | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
