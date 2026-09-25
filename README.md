@@ -1,10 +1,10 @@
-# Available .XXX One-Word Domains (30,597)
+# Available .XXX One-Word Domains (12,749)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C597%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C749%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .xxx one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,597 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,749 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,597 domains · **Median ask:** $97.74 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 12,749 domains · **Median ask:** $100.21 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/xxx`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| bed.xxx     | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
-| control.xxx | resell    | $154.98   | —             | high           | low    | 7      | GoDaddy.com, LLC                                          |
-| bit.xxx     | premium   | $775      | —             | high           | medium | 3      | name.com                                                  |
-| beg.xxx     | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
-| aid.xxx     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
-| earn.xxx    | premium   | $620      | —             | high           | low    | 4      | name.com                                                  |
-| bug.xxx     | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
-| fix.xxx     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
-| fame.xxx    | premium   | $620      | —             | high           | low    | 4      | name.com                                                  |
-| dye.xxx     | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
-| man.xxx     | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.                                            |
-| feel.xxx    | premium   | $620      | —             | high           | low    | 4      | name.com                                                  |
-| err.xxx     | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
-| top.xxx     | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                            |
-| flow.xxx    | premium   | $620      | —             | high           | medium | 4      | name.com                                                  |
-| gym.xxx     | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
-| toy.xxx     | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| hero.xxx    | premium   | $620      | —             | high           | medium | 4      | name.com                                                  |
-| ill.xxx     | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
-| lady.xxx    | resell    | —         | —             | high           | low    | 4      | united-domains GmbH                                       |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| bed.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| aid.xxx  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| bit.xxx  | premium   | $775      | —             | high           | medium | 3      | name.com                                                  |
+| beg.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| fix.xxx  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| she.xxx  | premium   | $310      | —             | high           | low    | 3      | name.com                                                  |
+| bug.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| top.xxx  | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                            |
+| bash.xxx | premium   | $620      | —             | high           | low    | 4      | name.com                                                  |
+| dye.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| toy.xxx  | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| beer.xxx | premium   | $173.60   | $173.60       | high           | low    | 4      | namecheap                                                 |
+| err.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| lady.xxx | resell    | —         | —             | high           | low    | 4      | united-domains GmbH                                       |
+| bolt.xxx | premium   | $620      | —             | high           | medium | 4      | name.com                                                  |
+| gym.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| play.xxx | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
+| earn.xxx | premium   | $620      | —             | high           | low    | 4      | name.com                                                  |
+| ill.xxx  | available | $154.98   | —             | high           | low    | 3      | namecheap                                                 |
+| word.xxx | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,597 live domains                        |
+| 1,000-row public sample | 12,749 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 4 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
