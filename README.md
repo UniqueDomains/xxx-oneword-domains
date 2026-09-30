@@ -1,10 +1,10 @@
-# Available .XXX One-Word Domains (23,834)
+# Available .XXX One-Word Domains (25,788)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C834%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C788%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .xxx one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,834 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,788 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,834 domains · **Median ask:** $94.13 · **High-demand under $2,500:** 11
+**Public extract:** 1,000 rows · **Live catalog:** 25,788 domains · **Median ask:** $91.53 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/xxx`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| adz.xxx    | available | $69.98    | $154.98       | medium         | low    | 3      | namecheap        |
-| ships.xxx  | resell    | $154.98   | —             | medium         | low    | 5      | GoDaddy.com, LLC |
-| gsa.xxx    | premium   | $806      | $806          | high           | low    | 3      | namecheap        |
-| dug.xxx    | available | $51.95    | $98.53        | high           | low    | 3      | spaceship        |
-| flight.xxx | resell    | $154.98   | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| she.xxx    | premium   | $310      | —             | high           | low    | 3      | name.com         |
-| gdp.xxx    | available | $69.98    | $154.98       | high           | low    | 3      | namecheap        |
-| tex.xxx    | resell    | —         | —             | medium         | low    | 3      | —                |
-| amos.xxx   | premium   | $644.80   | $644.80       | high           | low    | 4      | namecheap        |
-| gil.xxx    | available | $69.98    | $154.98       | high           | low    | 3      | namecheap        |
-| beta.xxx   | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.  |
-| apex.xxx   | premium   | $644.80   | $644.80       | high           | medium | 4      | namecheap        |
-| har.xxx    | available | $101.87   | $101.87       | high           | low    | 3      | dynadot          |
-| five.xxx   | resell    | —         | —             | high           | low    | 4      | Key-Systems GmbH |
-| ashe.xxx   | premium   | $644.80   | $644.80       | high           | low    | 4      | namecheap        |
-| ipc.xxx    | available | $52.01    | $98.35        | medium         | low    | 3      | porkbun          |
-| purr.xxx   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| bash.xxx   | premium   | $513.56   | $513.56       | high           | low    | 4      | spaceship        |
-| mel.xxx    | available | $69.98    | $154.98       | high           | low    | 3      | namecheap        |
-| phone.xxx  | resell    | —         | —             | high           | low    | 5      | Name.com, Inc.   |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| resort.xxx       | available | $51.95    | $98.53        | high           | low    | 6      | spaceship        |
+| neuroscience.xxx | available | $51.95    | $98.53        | high           | low    | 12     | spaceship        |
+| disco.xxx        | resell    | $154.98   | —             | high           | low    | 5      | namecheap        |
+| zest.xxx         | resell    | $154.98   | —             | high           | low    | 4      | namecheap        |
+| launch.xxx       | available | $95.20    | $95.20        | high           | medium | 6      | cloudflare       |
+| adz.xxx          | available | $69.98    | $154.98       | medium         | low    | 3      | namecheap        |
+| fish.xxx         | resell    | $154.98   | —             | high           | low    | 4      | namecheap        |
+| gsa.xxx          | premium   | $806      | $806          | high           | low    | 3      | namecheap        |
+| dma.xxx          | available | $51.95    | $98.53        | high           | low    | 3      | spaceship        |
+| she.xxx          | premium   | $310      | —             | high           | low    | 3      | name.com         |
+| dug.xxx          | available | $51.95    | $98.53        | high           | low    | 3      | spaceship        |
+| amos.xxx         | premium   | $644.80   | $644.80       | high           | low    | 4      | namecheap        |
+| gdp.xxx          | available | $69.98    | $154.98       | high           | low    | 3      | namecheap        |
+| ships.xxx        | resell    | $154.98   | —             | medium         | low    | 5      | GoDaddy.com, LLC |
+| apex.xxx         | premium   | $644.80   | $644.80       | high           | medium | 4      | namecheap        |
+| gil.xxx          | available | $69.98    | $154.98       | high           | low    | 3      | namecheap        |
+| slide.xxx        | resell    | $154.98   | —             | high           | low    | 5      | namecheap        |
+| ashe.xxx         | premium   | $644.80   | $644.80       | high           | low    | 4      | namecheap        |
+| jug.xxx          | available | $51.95    | $98.53        | high           | low    | 3      | spaceship        |
+| flight.xxx       | resell    | $154.98   | —             | high           | low    | 6      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,834 live domains                        |
+| 1,000-row public sample | 25,788 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 11 high-demand names under $2,500          |
+| Basic exported fields   | 13 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XXX One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
